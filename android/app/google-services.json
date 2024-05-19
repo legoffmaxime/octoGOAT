@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021976487039",
+    "project_id": "octogoat",
+    "storage_bucket": "octogoat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021976487039:android:8669db3010f45a76d08b4a",
+        "android_client_info": {
+          "package_name": "com.example.octogoat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArIeqbTgj3MDetlD-hL6egxgc8GR_N3vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
